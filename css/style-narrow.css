@@ -9,7 +9,7 @@
 /*********************************************************************************/
 
 	body,input,textarea,select {
-		font-size: 17pt;
+		font-size: 13pt;
 	}
 	
 	/* Main */
@@ -21,11 +21,11 @@
 			}
 			
 				.main.style2 .content {
-					width: 40%;
+					width: 50%;
 				}
 			
 					.main.style2.right .content {
-						left: 60%;
+						left: 50%;
 					}
 
 				.main.style2.inactive {
@@ -35,5 +35,5 @@
 					}
 
 						.main.style2.inactive.left .content {
-							left: -40%;
+							left: -50%;
 						}
